@@ -1,0 +1,24 @@
+{
+  "name": "int-to-words",
+  "version": "1.0.0",
+  "description": "It is a package which converts integer to the text value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhadeep-coder/npm-package.git"
+  },
+  "keywords": [
+    "Int",
+    "Word",
+    "Conversion"
+  ],
+  "author": "Subhadeep Dhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subhadeep-coder/npm-package/issues"
+  },
+  "homepage": "https://github.com/Subhadeep-coder/npm-package#readme"
+}
